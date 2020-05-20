@@ -20,15 +20,15 @@ Bem vindos à primeira edição do "challanges" organizado pela DEF CON 5551.
 
 Web:
 
-http://lab.nozaki.io:8001
+http://lab.nozaki.io:8001 - 100pts p/payload
 
-http://lab.nozaki.io:8002
+http://lab.nozaki.io:8002 - 300pts
 
 Rev:
 
-http://lab.nozaki.io/dc5551_v1
-
-http://lab.nozaki.io/dc5551_v2
+http://lab.nozaki.io/dc5551_v1 - 100pts
+ 
+http://lab.nozaki.io/dc5551_v2 - 500pts
 
 ### Premiação
 
