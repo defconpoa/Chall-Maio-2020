@@ -12,9 +12,9 @@ Bem vindos à primeira edição do "challenges" organizado pela DEF CON 5551.
 
 2. A participação deste CTF é invididual. Portanto, não é permitido solicitar auxílio de outros membros, participantes e organizadores do evento.
 
-3. O challange terá duração de 72 horas, sem intervalo, com início às 20:00 horas do dia 20/05/2020 e encerramento às 23:59 do dia 23/05/2020.
+3. O challenge terá duração de 72 horas, sem intervalo, com início às 20:00 horas do dia 20/05/2020 e encerramento às 23:59 do dia 23/05/2020.
 
-4. Após o término do challange, o participante com o maior número de pontos vence. Em caso de empate no total de pontos, aquele que tiver enviado o relatório primeiro será o ganhador.
+4. Após o término do challenge, o participante com o maior número de pontos vence. Em caso de empate no total de pontos, aquele que tiver enviado o relatório primeiro será o ganhador.
 
 ### Desafios Web e Rev
 
