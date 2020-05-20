@@ -8,7 +8,7 @@ Bem vindos à primeira edição do "challanges" organizado pela DEF CON 5551.
 
 ### Regras
 
-1. Enviar em um único arquivo PDF o relatório contendo as senhas, payloads e flags.
+1. Enviar em um único arquivo PDF o relatório contendo as senhas, payloads e flags, para info[at]dc5551.org
 
 2. A participação deste CTF é invididual. Portanto, não é permitido solicitar auxílio de outros membros, participantes e organizadores do evento.
 
