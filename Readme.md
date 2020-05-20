@@ -4,7 +4,7 @@
 
 ## 1º Challenge - DEF CON Porto Alegre
 
-Bem vindos à primeira edição do "challanges" organizado pela DEF CON 5551.
+Bem vindos à primeira edição do "challenges" organizado pela DEF CON 5551.
 
 ### Regras
 
