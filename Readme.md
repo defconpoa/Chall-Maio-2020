@@ -16,6 +16,20 @@ Bem vindos à primeira edição do "challanges" organizado pela DEF CON 5551.
 
 4. Após o término do challange, o participante com o maior número de pontos vence. Em caso de empate no total de pontos, aquele que tiver enviado o relatório primeiro será o ganhador.
 
+### Desafios Web e Rev
+
+Web:
+
+http://lab.nozaki.io:8001
+
+http://lab.nozaki.io:8002
+
+Rev:
+
+http://lab.nozaki.io/dc5551_v1
+
+http://lab.nozaki.io/dc5551_v2
+
 ### Premiação
 
 #### Primeiro Colocado
@@ -30,4 +44,4 @@ HackTheBox: 1 mês de conta vip
 
 Curso: Web Hacking - Técnicas de Invasão em Ambientes Web [Pentest] do Prof. Vinicius Vieira.
 
-A equipe da DEF CON 5551 deseja a todos boa sorte!!
+#### A equipe da DEF CON 5551 deseja a todos boa sorte!!
