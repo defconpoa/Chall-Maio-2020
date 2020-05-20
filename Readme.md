@@ -2,7 +2,7 @@
 
 ![](defcon5551.jpg)
 
-## 1º Challenger - DEF CON Porto Alegre
+## 1º Challenge - DEF CON Porto Alegre
 
 Bem vindos à primeira edição do "challanges" organizado pela DEF CON 5551.
 
