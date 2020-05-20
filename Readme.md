@@ -20,7 +20,7 @@ Bem vindos à primeira edição do "challanges" organizado pela DEF CON 5551.
 
 Web:
 
-http://lab.nozaki.io:8001 - 100pts p/payload
+http://lab.nozaki.io:8001 - 100pts p/payload (XSS pode ter interação e são aceitos somente para Firefox e Chrome). IE não contará os pontos.
 
 http://lab.nozaki.io:8002 - 300pts
 
